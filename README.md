@@ -18,7 +18,10 @@
     <img alt="Mobile Thumb" title="#mobile" src=".github/mobile.png" />
 </h1>
 
-## Tecnologias utilizadas no Projeto
+## Mobile Video Preview
+[Drive link, must be logged](https://drive.google.com/file/d/1jXblS7sQuyV4SSWDiri41Wz2kgWdjV3L/view?usp=sharing)
+
+## Technologies used in this project
 
 - Node
 - <a href="https://github.com/Henriquecesp/ideia-landing">React</a>
