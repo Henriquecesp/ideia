@@ -90,6 +90,9 @@ const EventsMap = () => {
     navigation.goBack();
   }
 
+  function handleNavigationToDetail(id: number) {
+    navigation.navigate("Detail", { event_id: id });
+  }
 
   function handleSelectItem(id: number) {
     const alreadySelected = selectedItems.findIndex((item) => item === id);
@@ -126,6 +129,7 @@ const EventsMap = () => {
                 <Marker
                   key={String(event.id)}
                   style={styles.mapMarker}
+                  onPress={() => handleNavigationToDetail(event.id)}
                   coordinate={{
                     latitude: event.latitude,
                     longitude: event.longitude,
