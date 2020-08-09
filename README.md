@@ -7,3 +7,24 @@
 <h1 align="center">
     <img alt="Ideia Capa" title="#top" src=".github/Capa.png" />
 </h1>
+
+## Web
+<h1 align="center">
+    <img width='85%' alt="Web Thumb" title="#web" src=".github/web.png" />
+</h1>
+
+## Mobile
+<h1 align="center">
+    <img alt="Mobile Thumb" title="#mobile" src=".github/mobile.png" />
+</h1>
+
+## Tecnologias utilizadas no Projeto
+
+- Node
+- React
+- React Native
+- TypeScript
+- Express
+- Knex
+- Axios
+- Expo
