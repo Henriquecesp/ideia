@@ -21,10 +21,9 @@
 ## Tecnologias utilizadas no Projeto
 
 - Node
-- React
+- <a href="https://github.com/Henriquecesp/ideia-landing">React</a>
 - React Native
 - TypeScript
-- Express
 - Knex
 - Axios
 - Expo
