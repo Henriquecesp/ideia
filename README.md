@@ -2,7 +2,7 @@
     <img alt="Ideia Logo" title="#logo" src=".github/Ideia.png" />
 </h1>
 
-### Welcome to Ideia Project! This project was created and developed during the Hackatour Cataratas by the Hemera Team. [In Progress]
+### Welcome to Ideia Project! This project was created and developed during the Hackatour Cataratas by the Hemera Team. See the pitch [video](https://www.youtube.com/watch?v=BbmJRDn0aw8) introduced by me.
 
 <h1 align="center">
     <img alt="Ideia Capa" title="#top" src=".github/Capa.png" />
