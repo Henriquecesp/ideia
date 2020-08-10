@@ -1,12 +1,47 @@
-<h1 align="center">
-    <img alt="Ideia Logo" title="#logo" src=".github/Ideia.png" />
-</h1>
+<h2 align="center">Ideia</h2>
 
-### Welcome to Ideia Project! This project was created and developed during the Hackatour Cataratas by the Hemera Team. See the pitch [video](https://www.youtube.com/watch?v=BbmJRDn0aw8) introduced by me.
+___
 
-<h1 align="center">
-    <img alt="Ideia Capa" title="#top" src=".github/Capa.png" />
-</h1>
+
+<p align="center">
+  <img src=".github/Ideia.png" alt="Ideia logo">
+</p>
+
+
+<p align="center">
+  <a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+</p>
+
+___
+
+<h3 align="center">
+  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
+  <a href="#mobile">Mobile</a>&nbsp;|&nbsp;
+  <a href="#web">Web</a>&nbsp;|&nbsp;
+  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
+  <a href="#licença">Licença</a>
+</h3>
+
+___
+
+<img src=".github/Capa.png" alt="Capa Ideia">
+
+## :information_source: Sobre
+
+A plataforma ideia é uma solução simples e eficiente que busca eventos próximos baseados na sua localização!
+Veja o video pitch [video](https://www.youtube.com/watch?v=BbmJRDn0aw8) apresentado por mim.
+
+## :interrobang: Motivo
+
+Você já foi para outra cidade e se sentiu perdido?
+Todos os dias, rolam diversos eventos que você nem imagina...
+Pois é, o problema é que os turistas e moradores, não sabem onde ir por falta de informação.
+Nós passamos por isso e queremos resolver isso e deixar sua viagem mais completa!
 
 ## Web
 <h1 align="center">
@@ -21,12 +56,32 @@
 ## Mobile Video Preview
 [Drive link, must be logged](https://drive.google.com/file/d/1jXblS7sQuyV4SSWDiri41Wz2kgWdjV3L/view?usp=sharing)
 
-## Technologies used in this project
+## :seedling: Requisitos Mínimos
 
-- Node
-- <a href="https://github.com/Henriquecesp/ideia-landing">React</a>
+Node v12.8.3
+Expo v3.23.3
+
+## :rocket: Tecnologias Utilizadas 
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+- NodeJs
+- Expo
 - React Native
 - TypeScript
-- Knex
+- React
 - Axios
-- Expo
+- Knex
+
+## :link: Como contribuir 
+
+- Faça um Fork do repositório
+- Clone o seu repositório
+- Crie uma branch com a sua feature
+- Faça um commit com suas mudanças
+- 'Push' a sua branch
+- Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
+
+## Licença 
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
