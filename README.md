@@ -34,7 +34,7 @@ ___
 ## :information_source: Sobre
 
 A plataforma ideia é uma solução simples e eficiente que busca eventos próximos baseados na sua localização!
-Veja o video pitch [video](https://www.youtube.com/watch?v=BbmJRDn0aw8) apresentado por mim.
+Veja o [video](https://www.youtube.com/watch?v=BbmJRDn0aw8) pitch apresentado por mim.
 
 ## :interrobang: Motivo
 
